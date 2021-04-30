@@ -1,0 +1,13 @@
+{
+  "factors": ["pm25", "pm10", "co", "so2", "nox", "tsp", "vocs"],
+  "sopList": [2016, 2017, 2018, 2019, 2020],
+  "outFilePath": "C:/mapServer/nginx-1.16.0/app/sopgrid/result",
+  "tempFilePath": "C:/mapServer/nginx-1.16.0/app/sopgrid/temp",
+  "clipFile": "sc.geojson",
+  "mapExtent": [97.34, 26.04, 108.55, 34.32],
+  "runTime": "2:00:00",
+  "xName": "longitude",
+  "yName": "latitude",
+  "zName": "pfl",
+  "intervalTime": ["00", "00", "00"]
+}
